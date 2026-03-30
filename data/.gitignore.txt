@@ -1,0 +1,13 @@
+# Ignore the raw image dataset (too large for GitHub)
+data/images/
+
+# Ignore python cache and checkpoints
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore the virtual environment if you created one
+venv/
+env/
+
+# Ignore large zip files
+*.zip
